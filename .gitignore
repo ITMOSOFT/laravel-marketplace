@@ -1,1 +1,7 @@
-/vendor/\n.phpunit.cache/\n.phpunit.result.cache\n.env\n.idea/\n.vscode/\n.DS_Store\n
+/vendor/
+/.phpunit.cache/
+/.phpunit.result.cache
+/.phpunit-watcher.yml
+.env
+.env.*
+!.env.example
